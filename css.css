@@ -13,6 +13,10 @@ header .container{
     border-radius: 10px;
 }
 
+header{
+    border-bottom: 1px solid #696969;
+}
+
 nav{
     padding: 13px 0;
     display: flex;
