@@ -102,7 +102,7 @@ header a, .tel1, .tel2 {
 }
 
 .guaranty_text, .about, .list_text, .catalogs, .contacts{
-    background-image: url(../new/images/bgr.png);
+    background-image: url(images/bgr.png);
 }
 
 .guaranty_text, .catalogs{
