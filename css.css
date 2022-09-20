@@ -90,8 +90,12 @@ header a, .tel1, .tel2 {
     justify-content: center;
 }
 
-.information, .sales, .products, .guaranty p{
+.information, .products, .guaranty p{
     font-family: 'Poppins', sans-serif;
+}
+
+.information{
+    font-size: 17px;
 }
 
 .box, .center_information, .contacts_information{
